@@ -11,7 +11,6 @@ public class Main {
                 new Person("Oleg Vitallev", "Boss", "big_bos@gmail.com", "89607776677", 200000, 47)
         };
 
-
         int checkAge = 40;
         for (Person person : arrayPerson){
             if (person.age > checkAge){
