@@ -8,6 +8,7 @@ public class Person {
     int cash;
     int age;
 
+
     Person(String name, String status, String email, String phoneNumber, int cash, int age){
         this.name = name;
         this.status = status;
